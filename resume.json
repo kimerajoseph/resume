@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "theme": "elegant"
+  },
+  "basics": {
+    "name": "Joseph Kimera",
+    "label": "Web Developer",
+    "image": "https://avatars0.githubusercontent.com/u/416209?s=460&u=38f220a2c9c658141804f881c334c594eb1642ac&v=4",
+    "summary": "I’m a full stack web developer who can build apps from the ground up. I've worked mostly at startups so I am use to wearing many hats. I am a very product focussed developer who priotizes user feedback first and foremost. I'm generally very flexible when investigating new roles. ",
+    "website": "https://lordajax.com",
+    "email": "jkimera5@gmail.com",
+    "location": {
+      "city": "Kampala",
+      "countryCode": "UG"
+    },
+    "profiles": [
+      {
+        "username": "KIMERAJOSEPH5",
+        "url": "https://twitter.com/KIMERAJOSEPH5",
+        "network": "twitter"
+      },
+      {
+        "url": "https://github.com/kimerajoseph",
+        "username": "kimerajoseph",
+        "network": "github"
+      }
+    ]
+  },
+  "education": [
+    {
+      "endDate": "2017-01-14",
+      "startDate": "2016-08-16",
+      "area": "Project Planning and Management",
+      "studyType": "Post Graduate Diploma",
+      "institution": "Uganda Management Institute"
+    },
+	{
+      "endDate": "2015-01-21",
+      "startDate": "2010-08-16",
+      "area": "Electrical Engineering",
+      "studyType": "Bachelors",
+      "institution": "Makerere University"
+    }
+  ],
+  "references": [
+    {
+      "reference": "We hired Joseph as a Project Engineer for our rural electrification projects under the Rural Electrification Program, REP in Uganda. Joseph is good at designing projects, costing and generating bills of materials. He is also an independent thinker, a good communicator and team player",
+      "name": "Gabriel Addi, Technical Manager, C&G Andijes Group Ltd"
+    },
+    {
+      "reference": "I have worked with Joseph for more than four years at Uganda Electricity Transmission Company Ltd, and on our side projects. About a year ago, Joseph was put in charge of improving the energy metering infrastructure across the country. I have been very impressed with the approach and achievements registered so far. He is very creative and passionate about automating business processes. He is good software engineer and even better problem solver. His ability to see the big picture is a 'super power'. I regard him very highly both as a person and professional",
+      "name": "Isaac Mukonyezi, Communications Engineer, UETCL"
+    },
+    {
+      "reference": "Joseph is an extremely talented engineer with a very broad range of skills and experience. From designing power lines, to planning projects, configuring electronic device and developing software to automate various manual processes, Joseph exhibits the rare skill of multi-tasking in different fields. He is a multi-purpose team player",
+      "name": "Patrick Kawuki, Principal Protection Engineer, UETCL"
+    },
+    
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "Python",
+		"HTML",
+        "SCSS / CSS",
+        "Javascript ",
+        "React",
+        "Redux",
+		
+      ],
+      "level": "Junior",
+      "name": "Full Stack"
+    },
+    {
+      "keywords": ["Node", "Python", "MySQL", "MongoDB", "Express","React"],
+      "level": "Junior",
+      "name": "Full Stack"
+    },
+    {
+      "keywords": ["AWS", "Digital Ocean", "Heroku"],
+      "level": "Junior",
+      "name": "Devops"
+    }
+  ],
+  
+  "work": [
+    {
+      "summary": "National Energy Metering Information System, EMIS",
+      "website": "https://uetclportal.com",
+      "location": "Kampala",
+      "position": "Full Stack Engineer",
+      "startDate": "2020-012-01",
+      "highlights": ["Python", "Django", "CSS", "Product","HTML","Javascript","MySQL"]
+    },
+    {
+      "summary": "Affordable solar systems for Africa",
+      "website": "https://enersol.com",
+      "name": "enersol",
+      "location": "Kampala",
+      "position": "Full Stack Engineer",
+      "startDate": "2021-07-01",
+      "endDate": "Still Running",
+      "highlights": [
+        "React, Apollo, Styled Components",
+        "Node.js / Rails",
+        "Docker / Heroku ",
+		"MondoDB",
+		"Express"		
+        "Leading Africa's Green Energy Revolution"
+      ]
+    },
+    
+  ],
+  "interests": [
+    {
+      "name": "Gardening"
+    },
+	{
+      "name": "Playing Sports - Soccer"
+    },
+	{
+      "name": "Swimming"
+    },
+    {
+      "name": "Reading / Writing"
+    },
+  ]
+}
